@@ -1,0 +1,36 @@
+{
+  "pillars": [
+    {
+      "id": "mobility",
+      "name": "Mobility & assistive devices",
+      "summary": "Facilitating access to wheelchairs, white canes, artificial limbs and other mobility support.",
+      "status": "Documented activity",
+      "featured_example": "A pupil at Kaling Primary School, previously carried roughly 3km to school, was provided with a wheelchair."
+    },
+    {
+      "id": "inclusive-education",
+      "name": "Inclusive education",
+      "summary": "Helping children with disabilities overcome barriers to school access and participation.",
+      "status": "Education · Inclusion"
+    },
+    {
+      "id": "water-sanitation",
+      "name": "School water & sanitation",
+      "summary": "Supporting water tanks, rainwater harvesting and sanitation initiatives in schools.",
+      "status": "Community infrastructure"
+    },
+    {
+      "id": "eye-health",
+      "name": "Eye health",
+      "summary": "Connecting people requiring eye care with organisations and facilities able to provide assistance.",
+      "status": "Health access"
+    },
+    {
+      "id": "community-support",
+      "name": "Community support",
+      "summary": "Mobilising resources and practical assistance for people facing difficult circumstances.",
+      "status": "Humanitarian support"
+    }
+  ],
+  "note": "Individual dated project case studies will be added under /projects/<pillar-id>/ as documentation is confirmed."
+}
