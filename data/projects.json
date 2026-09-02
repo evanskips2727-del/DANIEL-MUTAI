@@ -30,6 +30,13 @@
       "name": "Community support",
       "summary": "Mobilising resources and practical assistance for people facing difficult circumstances.",
       "status": "Humanitarian support"
+    },
+    {
+      "id": "shelter-housing",
+      "name": "Shelter & housing support",
+      "summary": "Helping vulnerable families move from makeshift shelter toward decent, durable housing.",
+      "status": "Fully documented project",
+      "featured_example": "A family was supported from an initial visit through material delivery, construction and furnishing of a rebuilt home; the household's wheelchair-using member was present throughout. 7 photos on file in /projects/shelter-housing."
     }
   ],
   "note": "Individual dated project case studies will be added under /projects/<pillar-id>/ as documentation is confirmed."
